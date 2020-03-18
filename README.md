@@ -451,6 +451,29 @@ You don't need to memorize the guts of every algorithm.
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
+## MUST KNOW
+
+- [ ] Data Structures
+    - [ ]	ArrayLists
+    - [ ]	Hash Tables
+    - [ ]	Trees(+Tries)
+    - [ ]	Graphs
+    - [ ]	Stacks/Queues
+    - [ ]	Heaps
+
+- [ ] Algorithms
+    - [ ]	Merge Sort
+    - [ ]	Quick Sort
+    - [ ]	Breadth-First Search
+    - [ ]	Depth-First Search
+    - [ ]	Binary Search
+		
+- [ ] Concepts 
+    - [ ]	Big O Time => master this
+    - [ ]	Big O Space => master this
+    - [ ]	Recursion
+    - [ ]	Memoization / Dynamic Programming
+
 ## Prerequisite Knowledge
 
 - [ ] **Learn C**
