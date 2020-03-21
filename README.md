@@ -159,18 +159,8 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 
 ### Interview Prep
 
-- [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
-    - answers in C++ and Java
-    - this is a good warm-up for Cracking the Coding Interview
-    - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
 - [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
-
-### If you have tons of extra time:
-
-- [ ] Elements of Programming Interviews (Java version)
-    - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
-    - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
 ### Language Specific
 
@@ -206,7 +196,11 @@ Each day I take one subject from the list below, watch videos about that subject
 
 Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then test it out on a computer.
 
-## MUST KNOW
+## MUST KNOW - TODO
+
+Find resources:  
+- Watch in youtube 
+- Implement your own in JS and JAVA  
 
 - [ ] Data Structures
     - [ ]	ArrayLists
@@ -229,7 +223,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ]	Recursion
     - [ ]	Memoization / Dynamic Programming
 
-## Prerequisite Knowledge
+## Prerequisite Knowledge - TODO
 
 - [ ] **How computers process a program:**
     - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
@@ -1734,6 +1728,11 @@ Sit back and enjoy. "Netflix and skill" :P
 - [2016: Borg, Omega, and Kubernetes](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44843.pdf)
 
 ---------------- Everything below this point is optional ----------------
+### If you have tons of extra time:
+
+- [ ] Elements of Programming Interviews (Java version)
+    - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
+    - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
 ## Additional Resources
 
