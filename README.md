@@ -2,65 +2,6 @@
 
 > This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 
-## Table of Contents
-
-- [x] [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
-- [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
-- [Data Structures](#data-structures)
-    - [Arrays](#arrays)
-    - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
-    - [Queue](#queue)
-    - [Hash table](#hash-table)
-- [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)
-- [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
-    - [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
-    - balanced search trees (general concept, not details)
-    - traversals: preorder, inorder, postorder, BFS, DFS
-- [Sorting](#sorting)
-    - selection
-    - insertion
-    - heapsort
-    - quicksort
-    - merge sort
-- [Graphs](#graphs)
-    - directed
-    - undirected
-    - adjacency matrix
-    - adjacency list
-    - traversals: BFS, DFS
-- [Even More Knowledge](#even-more-knowledge)
-    - [Recursion](#recursion)
-    - [Dynamic Programming](#dynamic-programming)
-    - [Object-Oriented Programming](#object-oriented-programming)
-    - [Design Patterns](#design-patterns)
-    - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
-    - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
-    - [Caches](#caches)
-    - [Processes and Threads](#processes-and-threads)
-    - [Testing](#testing)
-    - [Scheduling](#scheduling)
-    - [String searching & manipulations](#string-searching--manipulations)
-    - [Tries](#tries)
-    - [Floating Point Numbers](#floating-point-numbers)
-    - [Unicode](#unicode)
-    - [Endianness](#endianness)
-    - [Networking](#networking)
-- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
-- [Final Review](#final-review)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding exercises/challenges](#coding-exerciseschallenges)
-- [Once you're closer to the interview](#once-youre-closer-to-the-interview)
-- [Your Resume](#your-resume)
-- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-- [Have questions for the interviewer](#have-questions-for-the-interviewer)
-- [Once You've Got The Job](#once-youve-got-the-job)
-
 ### Java
 
 - [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
@@ -149,7 +90,7 @@ Find resources:
     - Implement an automatically resizing vector.
     - [ ] Description:
         - [x] [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
-        - [ ] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
+        - [x] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [ ] [Basic Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
         - [Multi-dim (video)](https://archive.org/details/0102WhatYouShouldKnow/02_05-multidimensionalArrays.mp4)
         - [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
