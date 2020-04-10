@@ -43,6 +43,7 @@ public static int[][] pascalTriangle(int n) {
     }
     return pt;
 }
- 
-  * Implement an array in JS
-  * Implement an array in Java
+```
+
+* Implement an array in JS
+* Implement an array in Java
